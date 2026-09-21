@@ -1,0 +1,18 @@
+# Datos generados y obsoletos
+data/raw/clima_departamentos/
+data/raw/ndvi_departamentos/
+data/raw/clima_viejo_bug/
+data/processed/
+data/raw/appeears_task_ids.json
+
+# Modelos entrenados
+models/*.pkl
+
+# Entorno / cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+data/raw/clima/

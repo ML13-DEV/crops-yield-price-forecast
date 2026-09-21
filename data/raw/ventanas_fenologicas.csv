@@ -1,0 +1,127 @@
+﻿cultivo,zona,etapa,mes_inicio,dia_inicio,mes_fin,dia_fin
+Soja,Núcleo Norte,floracion,1,1,1,28
+Soja,Núcleo Norte,llenado,2,1,3,31
+Maíz,Núcleo Norte,floracion,12,15,1,15
+Maíz,Núcleo Norte,llenado,1,16,3,31
+Trigo,Núcleo Norte,floracion,9,15,10,15
+Trigo,Núcleo Norte,llenado,10,16,11,30
+Girasol,Núcleo Norte,floracion,12,1,1,15
+Girasol,Núcleo Norte,llenado,1,16,2,28
+Soja,Núcleo Sur,floracion,1,1,1,28
+Soja,Núcleo Sur,llenado,2,1,3,31
+Maíz,Núcleo Sur,floracion,12,15,1,15
+Maíz,Núcleo Sur,llenado,1,16,3,31
+Trigo,Núcleo Sur,floracion,9,15,10,15
+Trigo,Núcleo Sur,llenado,10,16,11,30
+Girasol,Núcleo Sur,floracion,12,1,1,15
+Girasol,Núcleo Sur,llenado,1,16,2,28
+Soja,Centro N Cba,floracion,1,1,1,28
+Soja,Centro N Cba,llenado,2,1,3,31
+Maíz,Centro N Cba,floracion,12,15,1,15
+Maíz,Centro N Cba,llenado,1,16,3,31
+Trigo,Centro N Cba,floracion,9,15,10,15
+Trigo,Centro N Cba,llenado,10,16,11,30
+Girasol,Centro N Cba,floracion,12,1,1,15
+Girasol,Centro N Cba,llenado,1,16,2,28
+Soja,Centro N Sta Fe,floracion,1,1,1,28
+Soja,Centro N Sta Fe,llenado,2,1,3,31
+Maíz,Centro N Sta Fe,floracion,12,15,1,15
+Maíz,Centro N Sta Fe,llenado,1,16,3,31
+Trigo,Centro N Sta Fe,floracion,9,15,10,15
+Trigo,Centro N Sta Fe,llenado,10,16,11,30
+Girasol,Centro N Sta Fe,floracion,12,1,1,15
+Girasol,Centro N Sta Fe,llenado,1,16,2,28
+Soja,S Cba,floracion,1,1,1,28
+Soja,S Cba,llenado,2,1,3,31
+Maíz,S Cba,floracion,12,15,1,15
+Maíz,S Cba,llenado,1,16,3,31
+Trigo,S Cba,floracion,9,15,10,15
+Trigo,S Cba,llenado,10,16,11,30
+Girasol,S Cba,floracion,12,1,1,15
+Girasol,S Cba,llenado,1,16,2,28
+Soja,Ctro BA,floracion,1,1,1,28
+Soja,Ctro BA,llenado,2,1,3,31
+Maíz,Ctro BA,floracion,12,15,1,15
+Maíz,Ctro BA,llenado,1,16,3,31
+Trigo,Ctro BA,floracion,9,15,10,15
+Trigo,Ctro BA,llenado,10,16,11,30
+Girasol,Ctro BA,floracion,12,1,1,15
+Girasol,Ctro BA,llenado,1,16,2,28
+Soja,SL,floracion,1,1,1,28
+Soja,SL,llenado,2,1,3,31
+Maíz,SL,floracion,12,15,1,15
+Maíz,SL,llenado,1,16,3,31
+Trigo,SL,floracion,9,15,10,15
+Trigo,SL,llenado,10,16,11,30
+Girasol,SL,floracion,12,1,1,15
+Girasol,SL,llenado,1,16,2,28
+Soja,Ctro E ER,floracion,1,1,1,28
+Soja,Ctro E ER,llenado,2,1,3,31
+Maíz,Ctro E ER,floracion,12,15,1,15
+Maíz,Ctro E ER,llenado,1,16,3,31
+Trigo,Ctro E ER,floracion,9,15,10,15
+Trigo,Ctro E ER,llenado,10,16,11,30
+Girasol,Ctro E ER,floracion,12,1,1,15
+Girasol,Ctro E ER,llenado,1,16,2,28
+Soja,Cuenca Sal,floracion,1,1,1,28
+Soja,Cuenca Sal,llenado,2,1,3,31
+Maíz,Cuenca Sal,floracion,12,15,1,15
+Maíz,Cuenca Sal,llenado,1,16,3,31
+Trigo,Cuenca Sal,floracion,9,15,10,15
+Trigo,Cuenca Sal,llenado,10,16,11,30
+Girasol,Cuenca Sal,floracion,12,1,1,15
+Girasol,Cuenca Sal,llenado,1,16,2,28
+Soja,SO BA-S LP,floracion,1,15,2,11
+Soja,SO BA-S LP,llenado,2,15,4,14
+Maíz,SO BA-S LP,floracion,12,29,1,29
+Maíz,SO BA-S LP,llenado,1,30,4,14
+Trigo,SO BA-S LP,floracion,9,29,10,29
+Trigo,SO BA-S LP,llenado,10,30,12,14
+Girasol,SO BA-S LP,floracion,12,15,1,29
+Girasol,SO BA-S LP,llenado,1,30,3,14
+Soja,SE BA,floracion,1,15,2,11
+Soja,SE BA,llenado,2,15,4,14
+Maíz,SE BA,floracion,12,29,1,29
+Maíz,SE BA,llenado,1,30,4,14
+Trigo,SE BA,floracion,9,29,10,29
+Trigo,SE BA,llenado,10,30,12,14
+Girasol,SE BA,floracion,12,15,1,29
+Girasol,SE BA,llenado,1,30,3,14
+Soja,N LP-O BA,floracion,1,15,2,11
+Soja,N LP-O BA,llenado,2,15,4,14
+Maíz,N LP-O BA,floracion,12,29,1,29
+Maíz,N LP-O BA,llenado,1,30,4,14
+Trigo,N LP-O BA,floracion,9,29,10,29
+Trigo,N LP-O BA,llenado,10,30,12,14
+Girasol,N LP-O BA,floracion,12,15,1,29
+Girasol,N LP-O BA,llenado,1,30,3,14
+Soja,NOA,floracion,1,29,2,25
+Soja,NOA,llenado,3,1,4,28
+Maíz,NOA,floracion,1,12,2,12
+Maíz,NOA,llenado,2,13,4,28
+Trigo,NOA,floracion,9,15,10,15
+Trigo,NOA,llenado,10,16,11,30
+Girasol,NOA,floracion,12,29,2,12
+Girasol,NOA,llenado,2,13,3,28
+Soja,NEA,floracion,1,29,2,25
+Soja,NEA,llenado,3,1,4,28
+Maíz,NEA,floracion,1,12,2,12
+Maíz,NEA,llenado,2,13,4,28
+Trigo,NEA,floracion,9,15,10,15
+Trigo,NEA,llenado,10,16,11,30
+Girasol,NEA,floracion,12,29,2,12
+Girasol,NEA,llenado,2,13,3,28
+Soja,N LP-O BA,floracion,1,15,2,11
+Soja,N LP-O BA,llenado,2,15,4,14
+Maíz,N LP-O BA,floracion,12,29,1,29
+Maíz,N LP-O BA,llenado,1,30,4,14
+Trigo,N LP-O BA,floracion,9,29,10,29
+Trigo,N LP-O BA,llenado,10,30,12,14
+Girasol,N LP-O BA,floracion,12,15,1,29
+Girasol,N LP-O BA,llenado,1,30,3,14
+Maní,Maní Oeste,floracion,12,15,2,7
+Maní,Maní Oeste,llenado,2,7,4,7
+Maní,Maní Núcleo,floracion,12,15,1,31
+Maní,Maní Núcleo,llenado,1,31,3,31
+Maní,Maní Este,floracion,12,15,1,24
+Maní,Maní Este,llenado,1,24,3,24

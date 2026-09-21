@@ -1,0 +1,16 @@
+﻿Zona;Provincias/región;lat_min;lat_max;lon_min;lon_max
+NOA;Salta, Jujuy, Tucumán, Catamarca, O. Sgo. del Estero;-28.5;-22.0;-68.0;-63.0
+NEA;Chaco, Formosa, E. Sgo. del Estero;-28.0;-22.0;-63.0;-58.0
+Centro N Sta Fe;Centro-Norte de Santa Fe;-30.0;-28.0;-62.0;-59.0
+Centro N Cba;Centro-Norte de Córdoba;-31.0;-29.0;-65.0;-62.0
+Ctro E ER;Entre Ríos (excl. Victoria y Diamante);-33.0;-30.5;-59.5;-57.5
+Núcleo Norte;E. Córdoba + C-S Santa Fe + SO Entre Ríos;-33.5;-30.5;-62.5;-59.0
+Núcleo Sur;Norte de Buenos Aires;-35.5;-32.5;-62.5;-58.5
+S Cba;Sur de Córdoba;-35.5;-33.0;-65.0;-62.0
+SL;San Luis;-35.5;-32.0;-67.0;-64.5
+N LP-O BA;Norte La Pampa + Oeste Buenos Aires;-38.0;-34.5;-66.0;-62.5
+Ctro BA;Centro de Buenos Aires;-37.5;-34.5;-62.5;-58.5
+Cuenca Sal;Este de la Cuenca del Salado;-38.5;-35.0;-59.0;-56.5
+SE BA;Sudeste de Buenos Aires;-40.5;-36.5;-61.0;-56.5
+SO BA-S LP;SO Buenos Aires + Sur La Pampa;-41.0;-37.0;-65.5;-61.5
+Otras;Corrientes + Misiones;-30.0;-27.0;-58.5;-53.5

@@ -1,0 +1,500 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -68.0,
+                            -28.5
+                        ],
+                        [
+                            -63.0,
+                            -28.5
+                        ],
+                        [
+                            -63.0,
+                            -22.0
+                        ],
+                        [
+                            -68.0,
+                            -22.0
+                        ],
+                        [
+                            -68.0,
+                            -28.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -63.0,
+                            -28.0
+                        ],
+                        [
+                            -58.0,
+                            -28.0
+                        ],
+                        [
+                            -58.0,
+                            -22.0
+                        ],
+                        [
+                            -63.0,
+                            -22.0
+                        ],
+                        [
+                            -63.0,
+                            -28.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centro N Sta Fe"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -62.0,
+                            -30.0
+                        ],
+                        [
+                            -59.0,
+                            -30.0
+                        ],
+                        [
+                            -59.0,
+                            -28.0
+                        ],
+                        [
+                            -62.0,
+                            -28.0
+                        ],
+                        [
+                            -62.0,
+                            -30.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centro N Cba"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -65.0,
+                            -31.0
+                        ],
+                        [
+                            -62.0,
+                            -31.0
+                        ],
+                        [
+                            -62.0,
+                            -29.0
+                        ],
+                        [
+                            -65.0,
+                            -29.0
+                        ],
+                        [
+                            -65.0,
+                            -31.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ctro E ER"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -59.5,
+                            -33.0
+                        ],
+                        [
+                            -57.5,
+                            -33.0
+                        ],
+                        [
+                            -57.5,
+                            -30.5
+                        ],
+                        [
+                            -59.5,
+                            -30.5
+                        ],
+                        [
+                            -59.5,
+                            -33.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N\u00facleo Norte"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -62.5,
+                            -33.5
+                        ],
+                        [
+                            -59.0,
+                            -33.5
+                        ],
+                        [
+                            -59.0,
+                            -30.5
+                        ],
+                        [
+                            -62.5,
+                            -30.5
+                        ],
+                        [
+                            -62.5,
+                            -33.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N\u00facleo Sur"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -62.5,
+                            -35.5
+                        ],
+                        [
+                            -58.5,
+                            -35.5
+                        ],
+                        [
+                            -58.5,
+                            -32.5
+                        ],
+                        [
+                            -62.5,
+                            -32.5
+                        ],
+                        [
+                            -62.5,
+                            -35.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S Cba"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -65.0,
+                            -35.5
+                        ],
+                        [
+                            -62.0,
+                            -35.5
+                        ],
+                        [
+                            -62.0,
+                            -33.0
+                        ],
+                        [
+                            -65.0,
+                            -33.0
+                        ],
+                        [
+                            -65.0,
+                            -35.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SL"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -67.0,
+                            -35.5
+                        ],
+                        [
+                            -64.5,
+                            -35.5
+                        ],
+                        [
+                            -64.5,
+                            -32.0
+                        ],
+                        [
+                            -67.0,
+                            -32.0
+                        ],
+                        [
+                            -67.0,
+                            -35.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N LP-O BA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -66.0,
+                            -38.0
+                        ],
+                        [
+                            -62.5,
+                            -38.0
+                        ],
+                        [
+                            -62.5,
+                            -34.5
+                        ],
+                        [
+                            -66.0,
+                            -34.5
+                        ],
+                        [
+                            -66.0,
+                            -38.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ctro BA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -62.5,
+                            -37.5
+                        ],
+                        [
+                            -58.5,
+                            -37.5
+                        ],
+                        [
+                            -58.5,
+                            -34.5
+                        ],
+                        [
+                            -62.5,
+                            -34.5
+                        ],
+                        [
+                            -62.5,
+                            -37.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuenca Sal"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -59.0,
+                            -38.5
+                        ],
+                        [
+                            -56.5,
+                            -38.5
+                        ],
+                        [
+                            -56.5,
+                            -35.0
+                        ],
+                        [
+                            -59.0,
+                            -35.0
+                        ],
+                        [
+                            -59.0,
+                            -38.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SE BA"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -61.0,
+                            -40.5
+                        ],
+                        [
+                            -56.5,
+                            -40.5
+                        ],
+                        [
+                            -56.5,
+                            -36.5
+                        ],
+                        [
+                            -61.0,
+                            -36.5
+                        ],
+                        [
+                            -61.0,
+                            -40.5
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SO BA-S LP"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -65.5,
+                            -41.0
+                        ],
+                        [
+                            -61.5,
+                            -41.0
+                        ],
+                        [
+                            -61.5,
+                            -37.0
+                        ],
+                        [
+                            -65.5,
+                            -37.0
+                        ],
+                        [
+                            -65.5,
+                            -41.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Otras"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -58.5,
+                            -30.0
+                        ],
+                        [
+                            -53.5,
+                            -30.0
+                        ],
+                        [
+                            -53.5,
+                            -27.0
+                        ],
+                        [
+                            -58.5,
+                            -27.0
+                        ],
+                        [
+                            -58.5,
+                            -30.0
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

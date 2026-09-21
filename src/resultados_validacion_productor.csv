@@ -1,0 +1,13 @@
+lote_id,cultivo,departamento,zona,prediccion,real,error_abs,error_pct
+1,maíz,Presidente Roque Sáenz Peña,S Cba,72.3,130.7,58.4,44.7
+2,maíz,Presidente Roque Sáenz Peña,S Cba,69.4,80.1,10.7,13.4
+3,maíz,General López,Núcleo Sur,83.7,115.0,31.3,27.2
+5,maíz,Presidente Roque Sáenz Peña,S Cba,78.3,121.9,43.6,35.7
+6,maíz,Presidente Roque Sáenz Peña,S Cba,77.1,112.4,35.3,31.4
+7,maíz,Presidente Roque Sáenz Peña,S Cba,79.6,121.0,41.4,34.2
+8,maíz,General López,Núcleo Sur,88.7,154.0,65.3,42.4
+9,maíz,General López,Núcleo Sur,89.1,111.0,21.9,19.7
+11,maíz,General López,Núcleo Sur,82.6,175.0,92.4,52.8
+12,soja 2da,General López,Núcleo Sur,27.6,38.0,10.4,27.5
+13,soja 1ra,General Roca,S Cba,32.5,49.37,16.9,34.2
+15,maíz,Presidente Roque Sáenz Peña,S Cba,80.8,112.0,31.2,27.8
